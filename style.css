@@ -1,0 +1,72 @@
+h1 {
+    font-size: auto;
+    margin-block-end: 2em;
+    margin-block-start: 2em;
+
+}
+
+h2 {
+    font-size: auto;
+    margin-block-end: 2em;
+    margin-block-start: 0em;
+}
+
+html, body {
+
+    height: 100%;
+
+}
+
+body {
+
+display: grid;
+place-items: center;
+
+background: rgb(65, 65, 65);
+
+}
+
+#ufopa {
+
+    max-width: 250px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 0;
+    display: block;
+    padding-top: 0px;
+    padding-bottom: 0px;
+
+}
+
+#icons {
+
+    max-width: 20px;
+
+}
+
+#fotoPerfil {
+
+    max-width: 3em;
+    border: 2px solid darkgray;
+    border-top-right-radius: 35px;
+    border-bottom-left-radius: 35px;
+    padding: 2.5px;
+
+}
+
+a {
+
+    color: lightgray;
+    text-decoration: underline;
+    place-items: bottom;
+    padding-bottom: 150px;
+    padding-top: 50px;
+
+}
+
+#fontes {
+
+    font-size: 1.25em;
+    padding-top: 30px;
+
+}
